@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function HomePage() {
   const mockUrls = [
     "https://utfs.io/f/e43c63a7-fc26-4ef3-a01e-6dacda23ecfe-1t7g7r.gif",
